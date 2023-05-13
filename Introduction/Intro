@@ -1,0 +1,12 @@
+Compiled :
+1> Go tool can run file directly, without VM unlike Java.
+2> Executable are different for OS.
+What :
+1> System apps to web apps- cloud
+2> already in production
+
+Cons ?
+1> Go misses a lot of features like switch case statement, try catch etc but thats how Go is built. It doesnt need them.
+
+Object-Oriented ?
+Go is kind of object oriented. It doesnt have Classes but has Structs. Go doesnt have method & operator overloading.
